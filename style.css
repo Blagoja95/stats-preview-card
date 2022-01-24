@@ -102,8 +102,12 @@ body{
    
 }
 
-.img{
-   
+.header-image{
+    
+    width: 54rem;
+ height: 45rem;
+ border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .right-side::after{
